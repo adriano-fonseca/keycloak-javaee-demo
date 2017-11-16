@@ -13,5 +13,8 @@ docker run --name keycloak -e KEYCLOAK_USER=keycloak -e KEYCLOAK_PASSWORD=keyclo
 
 After you will need to add a realm and set your client configuration tu use a public schema your client configuration should seems like follows:
 
+![alt text](https://github.com/adriano-fonseca/keycloak-javaee-demo/blob/master/src/main/webapp/static/client_config.png "Client config")
+
+
  
 
